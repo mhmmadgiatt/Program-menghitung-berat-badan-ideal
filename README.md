@@ -7,5 +7,5 @@
 | 140810210013  | Muhammad Giat	        |
 | 140810210029  | Rifqi Muhadzib Ahdan        |
 
-##TUJUAN PROGRAM
+## TUJUAN PROGRAM
 Untuk menghitung berat badan ideal berdasarkan inputan jenis kelamin dan berat badan, dengan menggunakan rumus sesuai jenis kelamin dan diimplementasikan menggunakan bahasa pemrograman assembly x86  
